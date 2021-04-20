@@ -1,0 +1,33 @@
+.heading{
+    text-align: center;
+    font-weight: 600;
+    background-color: rgb(89, 84, 129);
+    color: rgb(255, 255, 255);
+}
+.inputRow{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    background-color: rgb(114, 72, 72);
+}
+.tableInner{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    background-color:rgb(156, 155, 155)
+}
+.tableTop{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    background-color:rgb(114, 114, 114);
+}
+.table{
+    width: 100%;
+}
+.login{
+    text-align: center;
+    padding: 14px;
+    size: 12px;
+}
+
